@@ -1,6 +1,6 @@
-# Customer-Churn-Modeling-Classification
+# Customer-Churn-Modeling-Classification(Logistics Regression, Random Forest, Decision Trees)
 
-The main objective of the project is to classify whether the customer will Churn or not for the Telecom Company and provide recoomendations to retain the existing customers
+The main objective of the project is to classify whether the customer will Churn or not for the Telecom Company and provide recommendations to retain the existing customers
 
 1. To get the percentage of customers that stopped using Verizon Telecommunication service.
 
