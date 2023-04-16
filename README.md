@@ -1,4 +1,4 @@
-# Customer-Churn-Modeling-Classification(Logistics Regression, Random Forest, Decision Trees)
+# Customer-Churn-Modeling-Classification(Logistics Regression, Random Forest, Decision Trees) in R
 
 The main objective of the project is to classify whether the customer will Churn or not for the Telecom Company and provide recommendations to retain the existing customers
 
